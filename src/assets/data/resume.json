@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "name": "Mohib Shaik",
+        "title": "Angular Developer",
+        "about": "I thoroughly enjoy solving business problems through technology and strive in collaborative teams. I prefer to work in smaller Scrum teams in which the entire team is adept in all facets of the development lifecyle. I place an emphasis on creating clean and maintainable code to ensure the team is able to move efficiently as the needs of the business change.",
+        "facebookUrl": "",
+        "twitterUrl": "",
+        "linkedInUrl": "https://www.linkedin.com/in/shaik-mastan-mohib-2b4834168/",
+        "contactInfo": {
+            "email": "mohib.shaik16@gmail.com",
+            "phone": "9381371016",
+            "location": "Hyderabad , Telangana"
+        },
+        "experience": [
+            {
+                "companyName": "InfoMagnus",
+                "title": "Angular Developer",
+                "startDate": "Mar 2019",
+                "endDate": "still Working",
+                "duties": [
+                    {
+                        "description": "Responsible for Angular Development"
+                    },
+                    {
+                        "description": "Designing and developing user interfaces using Angular best practices. "
+                    },
+                    {
+                        "description": "Adapting interface for modern internet applications using the latest front-end technologies"
+                    },
+                    {
+                        "description": "Writing JavaScript, CSS, and HTML . Developing product analysis tasks. "
+                    },
+                    {
+                        "description": "Making complex technical and design decisions for Angular projects. "
+                    },
+                    {
+                        "description": "Developing application codes and unit tests in Angular, Java Technologies, and Rest Web Services. "
+                    },
+                    {
+                        "description": "Ensuring high performance of applications and providing support "
+                    },
+                    {
+                        "description": "Actively Participating in Project Sprint Planning"
+                    }
+                ],
+                "technologies": [
+                    {
+                        "description": "Angular 8"
+                    },
+                    {
+                        "description": "Jasmine"
+                    },
+                    {
+                        "description": "Python"
+                    },
+                    {
+                        "description": "Flask"
+                    },
+                    {
+                        "description": "Web API"
+                    },
+                    {
+                        "description": "Postgres SQL"
+                    },
+                   
+                    {
+                        "description": "Sql Server"
+                    }
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "description": "Web API"
+            },
+            {
+                "description": "Angular 6+"
+            },
+            {
+                "description": "Javascript"
+            },
+            {
+                "description": "HTML/CSS"
+            },
+            {
+                "description": "Git"
+            },
+            {
+                "description": "TFS/AzureDevOps"
+            },
+            {
+                "description": "MY SQL"
+            },
+            {
+                "description": "Postgres SQL"
+            },
+            {
+                "description": "REST Architecture"
+            },
+            {
+                "description": "Python"
+            },
+            {
+                "description": "Django"
+            },
+            {
+                "description": "GitHub"
+            },
+            {
+                "description": "Bootstrap"
+            },
+            {
+                "description": "Rxjs"
+            },
+            {
+                "description": "AWS"
+            }
+        ],
+        "education": [
+            {
+                "schoolName": "Jawaharlal Nehru Technological University Kakinada",
+                "degree": "Bachelors- Mechanical Engineering",
+                "percentage": 70,
+                "startDate": "June 2015",
+                "endDate": "March 2019"
+            },
+            {
+                "schoolName": "Nalanda Junior College",
+                "degree": "Intermediate-MPC",
+                "percentage": 95.3,
+                "startDate": "June 2013",
+                "endDate": "March 2015"
+            },
+            {
+                "schoolName": "Sri Chaitanya School",
+                "degree": "SSC",
+                "startDate": "June 2012",
+                "endDate": "April 2013"
+            }
+        ]
+    }
+]

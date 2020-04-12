@@ -1,0 +1,134 @@
+/* Settings re-setters */
+.lx-mt-0-50 {
+    margin-top: 0px;
+}
+.lx-mb-50 {
+    margin-bottom: 3.125rem;
+}
+.lx-mb-15 {
+    margin-bottom: 0.9375rem !important;
+}
+.lx-mb-0 {
+    margin-bottom: 0px;
+}
+.lx-pr-30 {
+    padding-right: 1.875rem;
+}
+.lx-pl-30 {
+    padding-left: 1.875rem;
+}
+.lx-pr-15 {
+    padding-right: 0.9375rem;
+}
+.lx-pl-15 {
+    padding-left: 0.9375rem;
+}
+.lx-prl-15 {
+    padding-right: 0.9375rem;
+    padding-left: 0.9375rem;
+}
+.lx-pr-25 {
+    padding-right: 1.563rem;
+}
+.lx-pl-25 {
+    padding-left: 1.563rem;
+}
+.lx-prl-25 {
+    padding-right: 1.563rem;
+    padding-left: 1.563rem;
+}
+.lx-pr-10 {
+    padding-right: 0.625rem;
+}
+.lx-pl-10 {
+    padding-left: 0.625rem;
+}
+.lx-prl-10 {
+    padding-right: 0.625rem;
+    padding-left: 0.625rem;
+}
+.lx-pr-20 {
+    padding-right: 1.25rem;
+}
+.lx-pl-20 {
+    padding-left: 1.25rem;
+}
+.lx-pb-20 {
+    padding-bottom: 1.25rem;
+}
+.lx-pb-10 {
+    padding-bottom: 0.625rem;
+}
+.lx-pb-0 {
+    padding-bottom: 0px;
+}
+.lx-bl {
+    border-left: 0.0625rem solid #eeeeee;
+}
+@media (max-width: 1023px) {
+    .lx-p-0 {
+        padding: 0px;
+    }
+    .lx-pb-10 {
+        padding-bottom: 0px;
+    }
+    .lx-g3-2-f-to-g1-f {
+        width: 100%;
+    }
+}
+@media (max-width: 768px) {
+    .lx-mt-0-50 {
+        margin-top: 3.125rem;
+    }
+    .lx-mb-50 {
+        margin-bottom: 0px;
+    }
+    .lx-mb-15 {
+        margin-bottom: 30p !important;
+    }
+    .lx-pr-30 {
+        padding: 0px;
+    }
+    .lx-pl-30 {
+        padding: 0px;
+    }
+    .lx-pr-15 {
+        padding-right: 0px;
+    }
+    .lx-pl-15 {
+        padding-left: 0px;
+    }
+    .lx-prl-15 {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .lx-pr-25 {
+        padding-right: 0px;
+    }
+    .lx-pl-25 {
+        padding-left: 0px;
+    }
+    .lx-prl-25 {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .lx-pr-10 {
+        padding-right: 0px;
+    }
+    .lx-pl-10 {
+        padding-left: 0px;
+    }
+    .lx-prl-10 {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .lx-pr-20 {
+        padding-right: 0px;
+    }
+    .lx-pl-20 {
+        padding-left: 0px;
+    }
+    .lx-bl {
+        border-left: 0px;
+    }
+}
