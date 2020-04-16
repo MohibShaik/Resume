@@ -1,16 +1,25 @@
-<div class="lx-resume-img">
-    <img src="../../../assets/images/profile-pic.jpg" />
+<div class="avatar-info">
+
+    <div class="lx-resume-img">
+        <img src="../../../assets/images/profile-pic.jpg" />
+    </div>
+    <div class="lx-resume-name">
+        <h2>{{resume.name}}</h2>
+        <p>{{resume.title}}</p>
+
+
+        <!-- <p>contact-info</p> -->
+
+        <ul>
+            <li *ngIf="resume.facebookUrl"><a href="{{resume.facebookUrl}}" target="_blank"><i
+                        class="fa fa-facebook"></i></a></li>
+            <li *ngIf="resume.twitterUrl"><a href="{{resume.twitterUrl}}" target="_blank"><i
+                        class="fa fa-twitter"></i></a>
+            </li>
+            <li *ngIf="resume.linkedInUrl"><a href="{{resume.linkedInUrl}}" target="_blank"><i
+                        class="fa fa-linkedin"></i></a></li>
+        </ul>
+
+
+    </div>
 </div>
-<!-- <div class="lx-resume-name">
-    <h1>{{resume.name}}</h1>
-    <p>{{resume.title}}</p>
-    <ul>
-        <li *ngIf="resume.facebookUrl"><a href="{{resume.facebookUrl}}" target="_blank"><i
-                    class="fa fa-facebook"></i></a></li>
-        <li *ngIf="resume.twitterUrl"><a href="{{resume.twitterUrl}}" target="_blank"><i class="fa fa-twitter"></i></a>
-        </li>
-        <li *ngIf="resume.linkedInUrl"><a href="{{resume.linkedInUrl}}" target="_blank"><i
-                    class="fa fa-linkedin"></i></a></li>
-    </ul>
-    <div class="lx-clear-fix"></div>
-</div> -->

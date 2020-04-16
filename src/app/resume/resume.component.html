@@ -1,21 +1,11 @@
-<div class="lx-main">
-    <div  class="lx-main-content">
-        <div class="lx-clear-fix"></div>
-        <div class="lx-g3-f lx-pr-30">
-            <div class="lx-resume">
-                <app-avatar></app-avatar>
-                <!-- <app-contact-info [contactInfo]="resume.contactInfo"></app-contact-info> -->
-                <!-- <app-skills [skills]="resume.skills"></app-skills> -->
-            </div>
-        </div>
-        <div class="lx-g3-2-f lx-pl-30 lx-bl">
-            <div class="lx-resume">
-                <!-- <app-resume-about [about]="resume.about"></app-resume-about> -->
-                <!-- <app-certifications [certifications]="resume.certifications"></app-certifications> -->
-                <!-- <app-experience [experiences]="resume.experience"></app-experience> -->
-                <!-- <app-education [education]="resume.education"></app-education> -->
-            </div>
-        </div>
-        <div class="lx-clear-fix"></div>
-    </div>
+<div class="main">
+    <app-avatar [resume]="resume"></app-avatar>
+    <app-about [about]="resume.about"></app-about>
+    <app-contact-info></app-contact-info>
+    <app-skills [skills]="resume.skills"></app-skills>
+    <app-experience [experiences]="resume.experience"></app-experience>
+    <!-- <app-projects></app-projects> -->
+    <app-education [education]="resume.education"></app-education>
+
+
 </div>

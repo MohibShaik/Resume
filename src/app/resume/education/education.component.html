@@ -1,1 +1,28 @@
-<p>education works!</p>
+<div class="education-sec">
+    <fieldset class="scheduler-border">
+        <legend class="scheduler-border"><i class="fa fa-graduation-cap fa-lg"></i><span class="exp-head">Educational
+                Details</span>
+        </legend>
+
+        <div class="lx-resume-bloc">
+            <div class="lx-resume-education">
+                <ul>
+                    <li *ngFor="let schooling of education">
+                        <h4>{{schooling.degree}}
+                            <ins>{{schooling.schoolName}}</ins>
+                        </h4>
+                        <span class="lx-resume-education-dates ">{{schooling.startDate}} - {{schooling.endDate}}</span>
+                        <p>
+                            {{schooling.description}}
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+    </fieldset>
+
+</div>

@@ -4,12 +4,12 @@
         "name": "Mohib Shaik",
         "title": "Angular Developer",
         "about": "I thoroughly enjoy solving business problems through technology and strive in collaborative teams. I prefer to work in smaller Scrum teams in which the entire team is adept in all facets of the development lifecyle. I place an emphasis on creating clean and maintainable code to ensure the team is able to move efficiently as the needs of the business change.",
-        "facebookUrl": "",
+        "facebookUrl": "https://www.facebook.com/mohib.suraz.9",
         "twitterUrl": "",
         "linkedInUrl": "https://www.linkedin.com/in/shaik-mastan-mohib-2b4834168/",
         "contactInfo": {
             "email": "mohib.shaik16@gmail.com",
-            "phone": "9381371016",
+            "phone": "+91 - 9381371016",
             "location": "Hyderabad , Telangana"
         },
         "experience": [
@@ -63,7 +63,6 @@
                     {
                         "description": "Postgres SQL"
                     },
-                   
                     {
                         "description": "Sql Server"
                     }

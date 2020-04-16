@@ -2,3 +2,16 @@
 @import "../src/styles/general.scss";
 @import "../src/styles/reset.scss";
 @import "../src/styles/main.scss";
+
+$RobotoFont: Roboto, "Helvetica Neue", sans-serif;
+$RobotoCondensed: "Roboto Condensed", "Helvetica Neue", sans-serif;
+
+html,
+body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    font-family: $RobotoFont;
+    background: white;
+}
