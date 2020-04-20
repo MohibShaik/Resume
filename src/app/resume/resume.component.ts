@@ -9,7 +9,9 @@ import { Resume } from "../shared/models/resume/resume.model";
 })
 export class ResumeComponent implements OnInit {
   public resume: Resume;
-  constructor(public resumeService: ResumeService) {}
+  constructor(public resumeService: ResumeService) {
+
+  }
 
   ngOnInit() {
     this.resumeService.getResumeDetails().subscribe((res) => {
@@ -18,3 +20,7 @@ export class ResumeComponent implements OnInit {
     });
   }
 }
+
+
+
+

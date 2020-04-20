@@ -7,6 +7,7 @@ import { ResumeComponent } from "./resume/resume.component";
 import { ResumeModule } from "./resume/resume.module";
 import { HttpClientModule } from "@angular/common/http";
 import { AngularFontAwesomeModule } from "angular-font-awesome";
+import { MenuComponent } from './shared/components/menu/menu.component';
 // import { AboutComponent } from './about/about.component';
 // import { ContactComponent } from './contact/contact.component';
 
@@ -14,8 +15,7 @@ import { AngularFontAwesomeModule } from "angular-font-awesome";
   declarations: [
     AppComponent,
     ResumeComponent,
-    // AboutComponent,
-    // ContactComponent,
+    // MenuComponent
   ],
   imports: [
     BrowserModule,
@@ -27,4 +27,4 @@ import { AngularFontAwesomeModule } from "angular-font-awesome";
   providers: [],
   bootstrap: [AppComponent],
 })
-export class AppModule {}
+export class AppModule { }

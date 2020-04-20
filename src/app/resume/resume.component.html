@@ -1,11 +1,12 @@
 <div class="main">
     <app-avatar [resume]="resume"></app-avatar>
     <app-about [about]="resume.about"></app-about>
-    <app-contact-info></app-contact-info>
+    <!-- <app-contact-info></app-contact-info> -->
     <app-skills [skills]="resume.skills"></app-skills>
     <app-experience [experiences]="resume.experience"></app-experience>
     <!-- <app-projects></app-projects> -->
     <app-education [education]="resume.education"></app-education>
-
-
+    <app-projects [projects]='resume.projects'></app-projects>
+    <app-personal-info [personalInfo]='resume.contactInfo'></app-personal-info>
+    <!-- <app-menu></app-menu> -->
 </div>

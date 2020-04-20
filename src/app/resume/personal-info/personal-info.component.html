@@ -1,0 +1,36 @@
+<div class="personalInfo-sec">
+    <fieldset class="scheduler-border">
+        <legend class="scheduler-border"><i class="fa fa-user fa-lg" aria-hidden="true"></i>
+            <span class="skills-head">Personal Info</span>
+        </legend>
+
+        <div class="intrests-info">
+            <h5>Intrests</h5>
+            <span *ngFor="let intrest of personalInfo.intrests">
+                {{intrest.description}}</span>
+        </div>
+
+        <div class="intrests-info">
+            <h5>Languages</h5>
+            <span *ngFor="let language of personalInfo.languages">
+                {{language.description}}</span>
+        </div>
+
+        <div class="Contact-info">
+            <h5>Contact Details</h5>
+            <ul class="personal-info-order">
+                <li *ngIf="personalInfo.email"><i class="fa fa-envelope" aria-hidden="true">
+                    </i><span>{{personalInfo.email}}</span>
+                </li>
+                <li *ngIf="personalInfo.phone"><i class="fa fa-phone"
+                        aria-hidden="true"></i><span>{{personalInfo.phone}}</span></li>
+
+                <li *ngIf="personalInfo.location"><i class="fa fa-map-marker"
+                        aria-hidden="true"></i><span>{{personalInfo.location}}</span>
+                </li>
+            </ul>
+        </div>
+
+    </fieldset>
+
+</div>

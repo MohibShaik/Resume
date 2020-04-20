@@ -1,5 +1,5 @@
 .avatar-info {
-  padding-bottom: 80px;
+  padding-bottom: 20px;
   .lx-resume-img {
     width: 11.5rem;
     height: 11.5rem;
@@ -16,6 +16,10 @@
   .lx-resume-name {
     padding-top: 0.625rem;
     text-align: center;
+
+    .designation {
+      padding-top: 0.565rem !important;
+    }
 
     & p {
       line-height: 1rem;
@@ -35,12 +39,13 @@
 
         & a {
           display: inline-block;
-          padding: 0.3125rem;
+          padding: 1rem;
           font-size: 1.25rem;
           color: #424242;
 
           &::hover {
-            color: #f03434;
+            color: #f03434 !important;
+            cursor: pointer !important;
           }
         }
       }
