@@ -4,6 +4,7 @@ import { Resource } from "../resource.model";
 import { Experience } from "./experience.model";
 // import { Certification } from './certification.model';
 import { Education } from "./education.model";
+import { Projects } from './projects.model';
 
 export class Resume extends Resource {
   public id: string;
@@ -12,12 +13,14 @@ export class Resume extends Resource {
   public facebookUrl: string;
   public linkedInUrl: string;
   public twitterUrl: string;
+  public githubUrl: string;
   public about: string;
   public contactInfo: ContactInfo;
   public experience: Experience[];
   //   public certifications: Certification[];
   public skills: Detail[];
   public education: Education[];
+  public projects: Projects[];
 
   public static fromJson(json: any = {}): Resume | Resume[] {
     if (Array.isArray(json)) {
