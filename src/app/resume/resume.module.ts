@@ -22,7 +22,7 @@ import { MenuComponent } from '../shared/components/menu/menu.component';
     SkillsComponent,
     ProjectsComponent,
     PersonalInfoComponent,
-    MenuComponent
+    // MenuComponent
   ],
   imports: [CommonModule, ResumeRoutingModule, AngularFontAwesomeModule],
   exports: [
@@ -33,7 +33,7 @@ import { MenuComponent } from '../shared/components/menu/menu.component';
     EducationComponent,
     ProjectsComponent,
     PersonalInfoComponent,
-    MenuComponent
+    // MenuComponent
   ],
 
 })
