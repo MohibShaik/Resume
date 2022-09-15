@@ -1,0 +1,265 @@
+[
+    {
+        "id": 1,
+        "name": "Mohib Shaik",
+        "title": "Angular Developer",
+        "about": "I thoroughly enjoy solving business problems through technology and strive in collaborative teams. I prefer to work in smaller Scrum teams in which the entire team is adept in all facets of the development lifecyle. I place an emphasis on creating clean and maintainable code to ensure the team is able to move efficiently as the needs of the business change.",
+        "twitterUrl": "https://twitter.com/MohibShaik16",
+        "linkedInUrl": "https://www.linkedin.com/in/shaik-mastan-mohib-2b4834168/",
+        "githubUrl": "https://github.com/MohibShaik",
+        "contactInfo": {
+            "email": "mohib.shaik16@gmail.com",
+            "phone": "+91 - 9381371016",
+            "location": "Hyderabad , Telangana",
+            "intrests": [
+                {
+                    "description": "Quora"
+                },
+                {
+                    "description": "Playing Cricket"
+                },
+                {
+                    "description": "Gardening"
+                },
+                {
+                    "description": "Tech"
+                },
+                {
+                    "description": "Video Games"
+                }
+            ],
+            "languages": [
+                {
+                    "description": "English"
+                },
+                {
+                    "description": "Hindi"
+                },
+                {
+                    "description": "Telugu"
+                }
+            ]
+        },
+        "experience": [
+            {
+                "companyName": "InfoMagnus",
+                "title": "Angular Developer",
+                "startDate": "Mar 2019",
+                "endDate": "still Working",
+                "duties": [
+                    {
+                        "description": "Responsible for Angular Development"
+                    },
+                    {
+                        "description": "Designing and developing user interfaces using Angular best practices. "
+                    },
+                    {
+                        "description": "Adapting interface for modern internet applications using the latest front-end technologies"
+                    },
+                    {
+                        "description": "Writing JavaScript, CSS, and HTML . Developing product analysis tasks. "
+                    },
+                    {
+                        "description": "Making complex technical and design decisions for Angular projects. "
+                    },
+                    {
+                        "description": "Developing application codes and unit tests in Angular, Java Technologies, and Rest Web Services. "
+                    },
+                    {
+                        "description": "Ensuring high performance of applications and providing support "
+                    },
+                    {
+                        "description": "Actively Participating in Project Sprint Planning"
+                    }
+                ],
+                "technologies": [
+                    {
+                        "description": "Angular 8"
+                    },
+                    {
+                        "description": "Jasmine"
+                    },
+                    {
+                        "description": "Python"
+                    },
+                    {
+                        "description": "Flask"
+                    },
+                    {
+                        "description": "Web API"
+                    },
+                    {
+                        "description": "Postgres SQL"
+                    },
+                    {
+                        "description": "Sql Server"
+                    }
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "description": "Web API"
+            },
+            {
+                "description": "Angular 6+"
+            },
+            {
+                "description": "Javascript"
+            },
+            {
+                "description": "HTML/CSS"
+            },
+            {
+                "description": "Git"
+            },
+            {
+                "description": "TFS/AzureDevOps"
+            },
+            {
+                "description": "MY SQL"
+            },
+            {
+                "description": "Postgres SQL"
+            },
+            {
+                "description": "REST Architecture"
+            },
+            {
+                "description": "Python"
+            },
+            {
+                "description": "Django"
+            },
+            {
+                "description": "GitHub"
+            },
+            {
+                "description": "Bootstrap"
+            },
+            {
+                "description": "Rxjs"
+            },
+            {
+                "description": "AWS"
+            }
+        ],
+        "education": [
+            {
+                "schoolName": "Jawaharlal Nehru Technological University Kakinada",
+                "degree": "Bachelors- Mechanical Engineering",
+                "percentage": 70,
+                "startDate": "June 2015",
+                "endDate": "March 2019"
+            },
+            {
+                "schoolName": "Nalanda Junior College",
+                "degree": "Intermediate-MPC",
+                "percentage": 95.3,
+                "startDate": "June 2013",
+                "endDate": "March 2015"
+            },
+            {
+                "schoolName": "Sri Chaitanya School",
+                "degree": "SSC",
+                "startDate": "June 2012",
+                "endDate": "April 2013"
+            }
+        ],
+        "projects": [
+            {
+                "title": "LMS System",
+                "description": "LMS stands for Leave Management System ,A Infomagnus portal used by the firm for tracks the leaves  , Work from home histories of their Employees ",
+                "technologies": [
+                    {
+                        "description": "Angular 6"
+                    },
+                    {
+                        "description": ".NET"
+                    },
+                    {
+                        "description": "Sql Server"
+                    },
+                    {
+                        "description": "Azure"
+                    },
+                    {
+                        "description": "Web API"
+                    },
+                    {
+                        "description": "Sql Server"
+                    }
+                ]
+            },
+            {
+                "title": "DSD SMART ORDER",
+                "description": "DSD Partners is a leading provider of customized solutions that increase sales and decrease costs for retailers, distributors, and manufacturers. Their innovative products combine industry expertise and human insight with technology ,DSD Partners works as a middle layer between the manufacturer of retail products and the retail stores. Generally the stores order small quantities of product on a daily basis . DSD makes educated guesses as to how much product to put in their delivery trucks and many times they are not carrying the correct amounts. This causes reduced sales by the store and another trip by DSD Partners to deliver the correct product. This solution takes into account historical trends and provides intelligence on how much product to carry for each store for any given day.",
+                "technologies": [
+                    {
+                        "description": "Angular 8"
+                    },
+                    {
+                        "description": "Jasmine"
+                    },
+                    {
+                        "description": "Python"
+                    },
+                    {
+                        "description": "Flask"
+                    },
+                    {
+                        "description": "Web API"
+                    },
+                    {
+                        "description": "Postgres SQL"
+                    },
+                    {
+                        "description": "Sql Server"
+                    },
+                    {
+                        "description": "AWS"
+                    },
+                    {
+                        "description": "Jenkins"
+                    }
+                ]
+            },
+            {
+                "title": "ASM RETAIL SUITE",
+                "description": "ASM is the leading provider of technology-enabled sales & marketing business solutions helps consumer good’s manufacturers and retailers drive demand, increase sales, and achieve operating efficiencies. It's retail technology and service teams increase brand visibility through effective in-store selling and by executing merchandising fundamentals with tablet technology.  ",
+                "technologies": [
+                    {
+                        "description": "Angular 8"
+                    },
+                    {
+                        "description": "Jasmine"
+                    },
+                    {
+                        "description": "Python"
+                    },
+                    {
+                        "description": "Flask"
+                    },
+                    {
+                        "description": "Web API"
+                    },
+                    {
+                        "description": "Postgres SQL"
+                    },
+                    {
+                        "description": "Sql Server"
+                    },
+                    {
+                        "description": "Jenkins"
+                    },
+                    {
+                        "description": "Nginx Server"
+                    },
+                    {
+                        "description": "SQl-Alchemy"
+                    }
+                ]
+            }
+        ]
+    }
+]
